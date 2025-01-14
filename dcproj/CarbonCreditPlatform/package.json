@@ -1,0 +1,24 @@
+{
+  "name": "carboncreditplatform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "@ethersproject/contracts": "^5.7.0",
+    "mongodb": "^6.12.0",
+    "node-cron": "^3.0.3",
+    "web-vitals": "^4.2.4",
+    "web3": "^1.5.0"
+  }
+}

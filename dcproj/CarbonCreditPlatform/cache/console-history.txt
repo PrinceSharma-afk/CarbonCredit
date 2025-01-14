@@ -1,0 +1,2 @@
+(await contract.getBalance()).toString();
+npx hardhat console --network localhost

@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\sharm\\Desktop\\dcprojj\\CarbonCreditPlatform\\contracts\\CarbonCredit.sol": {
+      "lastModificationDate": 1735547145450,
+      "contentHash": "18d5b55c029d75f8b1869420ca59f779",
+      "sourceName": "contracts/CarbonCredit.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "CarbonCreditPlatform"
+      ]
+    }
+  }
+}
